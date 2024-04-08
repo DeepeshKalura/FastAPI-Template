@@ -1,0 +1,7 @@
+# virtual environment
+.venv
+# Screts File
+.env
+
+# IDE files
+.vscode
